@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="main_tests.MainTest-20231117003339" tests="3" file="main_tests.py" time="1.022" timestamp="2023-11-17T00:33:43" failures="0" errors="0" skipped="0">
+	<testcase classname="main_tests.MainTest" name="test_bezier_curve" time="0.001" timestamp="2023-11-17T00:33:42"/>
+	<testcase classname="main_tests.MainTest" name="test_binomial" time="0.000" timestamp="2023-11-17T00:33:42"/>
+	<testcase classname="main_tests.MainTest" name="test_visualisation" time="1.021" timestamp="2023-11-17T00:33:43"/>
+</testsuite>
